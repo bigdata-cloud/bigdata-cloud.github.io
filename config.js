@@ -1,7 +1,7 @@
 const config = {
     gatsby: {
-        pathPrefix: '/courseware/',
-        siteUrl: 'http://localhost:8000/',
+        pathPrefix: '/',
+        siteUrl: 'https://bigdata-cloud.github.io/',
         gaTrackingId: null,
         trailingSlash: false,
     },
