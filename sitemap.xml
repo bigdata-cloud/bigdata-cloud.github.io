@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://localhost:8000/courseware/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/bigdatahistory</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/resources</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/apachespark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/internet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/spark-continued</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/serverless</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkinternals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/syllabus</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkAPI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkinternals/1-sparkinternals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkinternals/3-sparkinternals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkinternals/2-sparkinternals</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkAPI/2-sparkAPI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkAPI/3-sparkAPI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/sparkAPI/1-sparkAPI</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/spark-continued/3-spark-continued</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/spark-continued/2-spark-continued</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/spark-continued/1-spark-continued</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/serverless/1-serverless</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/serverless/2-serverless</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/internet/1-internet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/serverless/3-serverless</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/internet/3-internet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/internet/2-internet</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/aws/1-aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/aws/2-aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/aws/3-homework</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/apachespark/1-apachespark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/apachespark/2-apachespark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/apachespark/3-apachespark</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/courseware/aws</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
