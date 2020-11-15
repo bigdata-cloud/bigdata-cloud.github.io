@@ -18,7 +18,7 @@ metaDescription: "CEU - Big Data and Cloud Computing"
 
 # Syllabus
 
-    Data Engineering 2: Big Data and Cloud Computing
+    Data Engineering 3: Big Data and Cloud Computing
 
 # Prerequisites 
 
