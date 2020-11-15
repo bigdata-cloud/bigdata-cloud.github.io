@@ -7,19 +7,13 @@ const config = {
     },
     header: {
 
-        logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Central_European_University_Logo.svg/1280px-Central_European_University_Logo.svg.png',
+        logo: 'https://alumni.ceu.edu/sites/all/themes/ceupoly/logo.png',
         logoLink: 'https://ceu.edu/',
-        title: "<a href='https://datapao.com/'><img class='img-responsive' src='https://datapao.com/wp-content/themes/datapao/img/footer.svg'/></a>",
+        title: "ECBS 5147: Data Engineering 3 Big Data and Cloud Computing",
         githubUrl: 'https://github.com/zoltanctoth/ceu-cloud-bigdata-course',
         helpUrl: '',
-        tweetText: 'Big Data and Cloud Computing Courseware, https://github.com/zoltanctoth/ceu-cloud-bigdata-course',
-        social: `<li>
-		    <a href="https://twitter.com/DE2course" target="_blank" rel="noopener">
-		      <div class="twitterBtn">
-		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
-		      </div>
-		    </a>
-		  </li>
+        tweetText: '',
+        social: `
 			<li>
 		    <a href="https://ceu-bizanalytics.slack.com/#/" target="_blank" rel="noopener">
 		      <div class="discordBtn">
