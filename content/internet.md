@@ -403,6 +403,22 @@ Digital Signatures have two components:
 
 * * *
 
+# Optional / Advanced QnA
+
+These are a selection of questions students asked in previous classes:
+
+#### Can my ISP see when I'm using Tor?
+
+Yes, unless you are using a VPN. <a  target='_blank' href='https://privacy.net/what-is-tor/#:~:text=Using%20Tor%2C%20all%20of%20your,which%20websites%20you'>Here is a good explanation</a>
+
+#### What proportion of the Internet traffic is transmitted through undersee cables vs. satellites?
+
+Most of the traffic is transmitted through undersee cables: https://qr.ae/pNWLAL
+
+#### What encryption does Git use?
+Git supports <a target='_blank' href='https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols'>several protocols</a>. SSH and HTTPs are the most popular. Both of these communication methods use the a Public Key infrastructure in the beginning of the communication and later on they are switching to a symmetrics encryption. <a href='https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols' target='_blank'>Here is a great explanation</a>.
+* * *
+
 # Practice Questions:
 - Explain what is an IP address and how it relates to the DNS system and the hostname?
 - What does it mean if a URL begins with https:// as opposed to http://? How does this associate with the concept of ports?
